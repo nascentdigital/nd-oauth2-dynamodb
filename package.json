@@ -1,0 +1,33 @@
+{
+  "name": "nd-oauth2-dynamodb",
+  "description": "An AWS DynamoDB provider for the Nascent OAuth2 NodeJS server.",
+  "author": "Nascent Digital",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nascentdigital/nd-oauth2-dynamodb.git"
+  },
+  "keywords": [
+    "oauth 2",
+    "server",
+    "dynamo"
+  ],
+  "engines": {
+    "node": ">=6.3.0"
+  },
+  "dependencies": {
+    "nd-oauth2-core": "^1.0.0",
+    "lodash": "^4.14.0",
+    "bluebird": "~3.4.1",
+    "node-uuid": "~1.4.7",
+    "bcryptjs": "2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/nascentdigital/nd-oauth2-dynamodb/issues"
+  },
+  "homepage": "https://github.com/nascentdigital/nd-oauth2-dynamodb#readme",
+  "main": "index.js"
+}
