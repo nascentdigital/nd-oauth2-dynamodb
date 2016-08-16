@@ -2,7 +2,7 @@
   "name": "nd-oauth2-dynamodb",
   "description": "An AWS DynamoDB provider for the Nascent OAuth2 NodeJS server.",
   "author": "Nascent Digital",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
