@@ -2,4 +2,4 @@
 
 
 // exports
-module.exports = require('./lib');
+exports.DynamoDbProvider = require('./lib/DynamoDbProvider');
